@@ -16,7 +16,7 @@
           <td>{{ weight_info.pd_quantity }}</td>
         </tr>
         <tr>
-          <td>Inches</td>
+          <td>pounds</td>
           <td>{{ weight_info.oz_quantity }}</td>
         </tr>
       </thead>
