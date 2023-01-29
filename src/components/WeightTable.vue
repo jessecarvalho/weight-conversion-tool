@@ -13,11 +13,11 @@
         </tr>
         <tr>
           <td>Pounds</td>
-          <td>{{ weight_infopd_quantity }}</td>
+          <td>{{ weight_info.pd_quantity }}</td>
         </tr>
         <tr>
           <td>Ounces</td>
-          <td>{{ weight_infooz_quantity }}</td>
+          <td>{{ weight_info.oz_quantity }}</td>
         </tr>
       </thead>
     </table>
